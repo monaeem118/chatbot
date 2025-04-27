@@ -1,0 +1,11 @@
+{
+  "name": "movie-chatbot-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "@langchain/textsplitters": "^0.1.0",
+    "@supabase/supabase-js": "^2.48.1",
+    "langchain": "^0.3.24",
+    "openai": "^4.79.1",
+    "vercel": "^41.6.2"
+  }
+}
